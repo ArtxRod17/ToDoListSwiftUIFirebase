@@ -65,15 +65,6 @@ pod install
 
 The Firebase configuration is done in the `AppDelegate.swift` file. If you have multiple Firebase configurations (e.g., development and production), you can create separate configuration files and switch between them based on your build scheme.
 
-## Dependencies
-
-This app uses the following dependencies managed by CocoaPods:
-
-- `Firebase/Firestore`: Firebase Firestore database.
-- `Firebase/Auth`: Firebase Authentication.
-
-You can find the list of dependencies and their versions in the `Podfile`.
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request.
