@@ -49,6 +49,7 @@ struct ToDoListView: View {
 struct ToDoListItemsView_Previews: PreviewProvider {
     static var previews: some View {
         //Just A preview, hardcode testing account userId
+        //Go Ahead And Try out the preview with this account
         ToDoListView(userId: "PLtvSlJrLzOdxlxejaNjt4IS1ml1")
     }
 }
